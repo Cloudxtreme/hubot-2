@@ -7,4 +7,4 @@ RUN cd /hubot && npm install
 
 EXPOSE 8080
 
-CMD ["/hubot/bin/hubot", "--adapter", "slack"]
+CMD cd /hubot && bin/hubot --adapter slack
