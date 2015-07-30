@@ -20,9 +20,9 @@
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.2.1",
     "hubot-youtube": "^0.1.2",
+    "randomstring": "^1.0.3",
     "rethinkdb": "^1.15.0-0",
-    "soupselect": "^0.2.0",
-    "randomstring": "^1.0.3"
+    "soupselect": "^0.2.0"
   },
   "engines": {
     "node": "0.10.x"
