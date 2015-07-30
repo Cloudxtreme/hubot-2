@@ -1,4 +1,4 @@
-FROM dockerfile/nodejs
+FROM node 
 
 MAINTAINER "Piotr Zduniak <piotr@zduniak.net>"
 
